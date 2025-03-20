@@ -5,7 +5,7 @@
 2. Click on "#,### followers" in your bio
 3. Switch to the 'Following' tab
 4. Paste this script into your browser's dev console
-5. Manually click through the stack of 'Unfollow' bubbles
+5. Manually click through the stack of 'Unfollow' bubbles (I have included an AutoHotkey script that will enable you to hold down Win+C in order to accomplish this task; once the script is active on your machine, simply position the mouse over the 'Unfollow' button and hold down the key combo)
 6. Scroll down the 'Following' list to load more profiles (an easy way to do this is to click the 'Following' tab, press the Tab key, and then simply hold down the Page Down key)
 7. Repeat
 
