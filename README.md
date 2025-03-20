@@ -17,17 +17,17 @@ Steps to Add a Bookmarklet:
 
 1. Create a New Bookmark (Any Page):
 - You can't directly create a bookmarklet without first creating a regular bookmark. So, start by bookmarking any page. It doesn't matter which one. You can do this by:
--- Clicking the star icon in the address bar.
--- Pressing Ctrl+D (Windows/Linux) or Cmd+D (macOS).
--- Right-clicking on a page and selecting "Bookmark This Page".
--- Going to "Bookmarks" > "Bookmark This Page" in the Firefox menu.
+  - Clicking the star icon in the address bar.
+  - Pressing Ctrl+D (Windows/Linux) or Cmd+D (macOS).
+  - Right-clicking on a page and selecting "Bookmark This Page".
+  - Going to "Bookmarks" > "Bookmark This Page" in the Firefox menu.
 
 2. Edit the Bookmark:
 - Find the bookmark you just created. The easiest way is usually:
--- Bookmarks Toolbar: If the bookmark is on your toolbar, right-click on it.
--- Bookmarks Menu: If it's in the Bookmarks menu, click the menu, find the bookmark, and right-click on it.
--- Bookmarks Manager: Press Ctrl+Shift+O (Windows/Linux) or Cmd+Shift+O (macOS) to open the Library (Bookmarks Manager). Find your bookmark there, and right-click it.
---- From the right-click menu, select "Edit Bookmark" (or a similar option like "Properties" – the wording might vary slightly depending on your Firefox version).
+  - Bookmarks Toolbar: If the bookmark is on your toolbar, right-click on it.
+  - Bookmarks Menu: If it's in the Bookmarks menu, click the menu, find the bookmark, and right-click on it.
+  - Bookmarks Manager: Press Ctrl+Shift+O (Windows/Linux) or Cmd+Shift+O (macOS) to open the Library (Bookmarks Manager). Find your bookmark there, and right-click it.
+  - From the right-click menu, select "Edit Bookmark" (or a similar option like "Properties" – the wording might vary slightly depending on your Firefox version).
 
 3. Paste the JavaScript Code:
 - Crucially: In the edit window, find the field labeled "Location" (or sometimes "URL"). This is where the magic happens.
