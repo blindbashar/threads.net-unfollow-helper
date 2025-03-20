@@ -11,7 +11,7 @@
 
 ### Tested and works on Firefox and Chrome.
 
-## Bonus points:
+## Bonus Points
 
 Steps to Add a Bookmarklet:
 
