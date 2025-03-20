@@ -11,22 +11,22 @@
 
 ### Tested and works on Firefox and Chrome.
 
-## ORIGINAL README
-# https://github.com/sanderbell/unfollow-on-threads
+#### ORIGINAL README
+##### https://github.com/sanderbell/unfollow-on-threads
+```
+Mass Unfollow on Threads.net
 
-# Mass Unfollow on Threads.net
-
-## Overview
+Overview
 
 This script allows you to mass unfollow accounts on Threads.net 
 
-## Prerequisites
+Prerequisites
 
 Before using this script, ensure that you have the following:
 
-- **Google Chrome:** The script is designed to run in the Google Chrome browser.
+- Google Chrome: The script is designed to run in the Google Chrome browser.
 
-## Instructions
+Instructions
 
 1. Open Google Chrome and navigate to the Threads website
 2. Log in to your account
@@ -34,3 +34,4 @@ Before using this script, ensure that you have the following:
 4. Click on the 'Following' tab to see the list of accounts you are following
 5. Open JavaScript console
 6. Execute the script
+```
