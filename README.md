@@ -6,7 +6,7 @@
 3. Switch to the 'Following' tab
 4. Paste this script into your browser's dev console
 5. Manually click through the stack of 'Unfollow' bubbles
-6. Scroll down the 'Following' list to load more profiles (an easy way to do this is to click the 'Following' tab and then simply hold down the Page Down key)
+6. Scroll down the 'Following' list to load more profiles (an easy way to do this is to click the 'Following' tab, press the Tab key, and then simply hold down the Page Down key)
 7. Repeat
 
 ### Tested and works on Firefox and Chrome.
