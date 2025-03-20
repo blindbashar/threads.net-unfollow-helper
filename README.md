@@ -27,7 +27,7 @@ Steps to Add a Bookmarklet:
   - Bookmarks Toolbar: If the bookmark is on your toolbar, right-click on it.
   - Bookmarks Menu: If it's in the Bookmarks menu, click the menu, find the bookmark, and right-click on it.
   - Bookmarks Manager: Press Ctrl+Shift+O (Windows/Linux) or Cmd+Shift+O (macOS) to open the Library (Bookmarks Manager). Find your bookmark there, and right-click it.
-  - From the right-click menu, select "Edit Bookmark" (or a similar option like "Properties" – the wording might vary slightly depending on your Firefox version).
+    - From the right-click menu, select "Edit Bookmark" (or a similar option like "Properties" – the wording might vary slightly depending on your Firefox version).
 
 3. Paste the JavaScript Code:
 - Crucially: In the edit window, find the field labeled "Location" (or sometimes "URL"). This is where the magic happens.
